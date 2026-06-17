@@ -28,7 +28,10 @@
 - [x] Animation Voices
 - [x] Skin Model
 
+# ⚠️ WARNING
+
+- If this message pops up while you're playing [Network Error], it means the file modification failed
 <div align="center">
     <img src="https://f.ptcdn.info/595/076/000/r8en56pwaaK7Ks0m3OAu-o.jpg" width="700" alt="ArenaOfValor WarningMessage" />
 </div>
-<h4>💭 
+<h4>
