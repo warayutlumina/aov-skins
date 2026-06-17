@@ -57,12 +57,14 @@
 
 - 🛠️ For decoration customization, replace the ModSkin model with the decoration model using the following path: `Resources/ver/Prefab_Characters/Actor_hero_id_Infos.pkg.bytes/Prefab_Hero/hero_id_foldername`
 
+# ✨ What files do I need to prepare for creating a skin mod? Here's a list
+
 <div align="center">
     <img src="https://cdn.phototourl.com/free/2026-06-17-5467d3f9-e2f8-4d69-9f2f-943c1453094d.jpg" width="700" alt="ArenaOfValor WarningMessage" />
 </div>
 <h4>
 
-- ✨ What files do I need to prepare for creating a skin mod? Here's a list
+- 📁File structure
 
 ```Resources/
 │   ├── Ages
@@ -87,3 +89,12 @@
 │   └── Prefab_Characters
 │       Actor_Infos.pkg.bytes
 ```
+
+# 🚫 THE ACCOUNT HAS BEEN BANNED
+
+<div align="center">
+    <img src="https://cdn.phototourl.com/free/2026-06-17-f42dc6ea-16ff-4ed9-aeb1-572722ad79f1.png" width="700" alt="ArenaOfValor WarningMessage" />
+</div>
+<h4>
+
+- ❗ Getting banned has nothing to do with ModTools because you willingly consented and accepted the risk yourself. No one forced you; you accepted that 'one day you will be banned'
