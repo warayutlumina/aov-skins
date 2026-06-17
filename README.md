@@ -85,4 +85,5 @@
 │   │           LobbyBank.bytes
 │   │           LobbySound.bytes
 │   └── Prefab_Characters
-│       Actor_Infos.pkg.bytes```
+│       Actor_Infos.pkg.bytes
+```
