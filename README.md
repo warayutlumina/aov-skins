@@ -27,6 +27,7 @@
 - [x] Lobby Skin
 - [x] Animation Voices
 - [x] Skin Model
+- [x] Changed the jungle monster buff to protect towers, such as the `Dimension Breaker` series.
 
 # ⚠️ WARNING
 
