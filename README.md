@@ -48,7 +48,7 @@
 
 - 🛠️ Editing hero animations into modified skins using any version of `hex editor`, depending on which version is compatible with your device. Animation file path: `Resources/ver/Databin/Client/Motion/ResSkinMotionBaseCfg.bytes`
 
-# HIGH-LEVEL SKIN MODEL DECORATIONS
+# 🛠️ HIGH-LEVEL SKIN MODEL DECORATIONS
 
 <div align="center">
     <img src="https://cdn.phototourl.com/free/2026-06-17-419f9e39-4ab2-4c70-8de2-f8c058171609.jpg" width="700" alt="ArenaOfValor WarningMessage" />
