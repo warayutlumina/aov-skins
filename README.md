@@ -34,6 +34,8 @@
 <div align="center">
     <img src="https://cdn.phototourl.com/free/2026-06-17-ca1274a1-56cc-44d4-9e9f-e5d162e9aa9f.jpg" width="700" alt="ArenaOfValor WarningMessage" />
 </div>
-<h4> - 🗑️ To fix the [Network Error] issue, go to`[ Android/Data/com.garena.game.kgth/files/Resources]`, delete the folder/files used for ModSkin, then open the game and download the resources again. After that, you should be able to continue playing. If you place files such as [Ages AssetRefs Databin Prefab_Characters] over the ModSkin files and enter the game, the message “Network Error” will still appear. The recommended solution is to delete the entire Resources folder and let the game download fresh resources again.
+<h4>
+
+- 🗑️ To fix the [Network Error] issue, go to`[ Android/Data/com.garena.game.kgth/files/Resources]`, delete the folder/files used for ModSkin, then open the game and download the resources again. After that, you should be able to continue playing. If you place files such as [Ages AssetRefs Databin Prefab_Characters] over the ModSkin files and enter the game, the message “Network Error” will still appear. The recommended solution is to delete the entire Resources folder and let the game download fresh resources again.
 
 
