@@ -23,5 +23,6 @@
 - [x] Exit Base
 - [x] Background Skin
 - [x] Skin Voice
+- [x] Opening Sound
 - [x] Animation Voices
 - [x] Skin Model
