@@ -27,7 +27,7 @@
 - [x] Lobby Skin
 - [x] Animation Voices
 - [x] Skin Model
-- [x] Changed the jungle monster buff to protect turrets kip, such as the clan `Dimension Breaker` series
+- [x] Changed the jungle monster buff to protect turrets kip , such as the `Dimension Breaker` series
 
 # ⚠️ WARNING
 
