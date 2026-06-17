@@ -1,1 +1,1 @@
-[รูปที่1](https://share.google/9I5CY5STzsutqflMK)
+https://share.google/9I5CY5STzsutqflMK
