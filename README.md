@@ -32,6 +32,6 @@
 
 - If this message pops up while you're playing [Network Error], it means the file modification failed
 <div align="center">
-    <img src="https://f.ptcdn.info/595/076/000/r8en56pwaaK7Ks0m3OAu-o.jpg" width="700" alt="ArenaOfValor WarningMessage" />
+    <img src="https://cdn.phototourl.com/free/2026-06-17-ca1274a1-56cc-44d4-9e9f-e5d162e9aa9f.jpg" width="700" alt="ArenaOfValor WarningMessage" />
 </div>
 <h4>
