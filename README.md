@@ -65,6 +65,8 @@
 </div>
 <h4>
 
+- 📁 Ages AssetRefs Databin Prefab_Charactars Used for creating skin mods. If one component is missing, the file modification will be incomplete and imperfect
+
 - 📁File structure
 
 ```Resources/
