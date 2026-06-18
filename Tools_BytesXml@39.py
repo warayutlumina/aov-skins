@@ -189,7 +189,7 @@ def process_root(root, skinpos, copyright_text):
         parent = ET.Element('copyright', a)
 
     elements = [
-        ('Github', 'https://github.com/jkbnmzx'),
+        ('Github', 'https://github.com/warayutlumina'),
         ('Youtube', 'https://www.youtube.com/jkbnmzx'),
         ('Discord', 'https://discord.gg/3bPVkMAUmc')
     ]
