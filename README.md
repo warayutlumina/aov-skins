@@ -19,6 +19,7 @@
 - [x] Skill Effects
 - [x] Display Effects
 - [x] Skin Icon level
+- [x] Skin Name
 - [x] Recall
 - [x] Exit Base
 - [x] Background Skin
