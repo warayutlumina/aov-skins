@@ -9,18 +9,16 @@ import sys
 import ast
 import time
 
-
 SOURCE_BYTES_DIR = r"Databin"
 DEST_VERSTRING_DIR = r"Databin_string"
 
 SOURCE_VERSTRING_DIR = r"Databin_string"
 DEST_BYTES_DIR = r"Databin_restored"
 
-TARGET_EXT = ".bytes"   
-OUTPUT_EXT = ".txt"     
+TARGET_EXT = ".bytes"
+OUTPUT_EXT = ".txt"
 
 CREDIT_LINE = "โปรแกรมนี้ทำโดย JKBNMZX สำหรับแปลงข้อมูล"
-# -----------------------------------------------------------------------
 
 
 def clear_screen() -> None:
@@ -33,10 +31,7 @@ def show_processing_banner(filename: str) -> None:
     print(CREDIT_LINE)
 
 
-
-
 def convert_file_bytes_to_string(src_path: str, dst_path: str) -> None:
-    """อ่านไฟล์ bytes แล้วแปลงเป็น Python repr string แล้วเขียนเป็น UTF-8"""
     with open(src_path, "rb") as f:
         data = f.read()
     string_version = repr(data)
@@ -45,7 +40,6 @@ def convert_file_bytes_to_string(src_path: str, dst_path: str) -> None:
 
 
 def convert_file_string_to_bytes(src_path: str, dst_path: str) -> None:
-    """อ่านไฟล์ verstring (Python repr ของ bytes) แล้วแปลงกลับเป็น bytes จริง"""
     with open(src_path, "r", encoding="utf-8") as f:
         content = f.read().strip()
     data = ast.literal_eval(content)
@@ -54,8 +48,6 @@ def convert_file_string_to_bytes(src_path: str, dst_path: str) -> None:
     with open(dst_path, "wb") as f:
         f.write(data)
 
-
-# ---------------------- ฟังก์ชันเดินลูปทั้งโฟลเดอร์ ----------------------
 
 def mode_bytes_to_verstring(source_dir: str, dest_dir: str):
     total = converted = copied = errors = 0
@@ -99,7 +91,7 @@ def mode_verstring_to_bytes(source_dir: str, dest_dir: str):
             show_processing_banner(filename)
             try:
                 if filename.lower().endswith(OUTPUT_EXT):
-                    dst_filename = filename[: -len(OUTPUT_EXT)]  # ตัด .txt ออก -> heroSkin.bytes
+                    dst_filename = filename[: -len(OUTPUT_EXT)]
                     dst_path = os.path.join(target_dir, dst_filename)
                     convert_file_string_to_bytes(src_path, dst_path)
                     converted += 1
@@ -114,8 +106,6 @@ def mode_verstring_to_bytes(source_dir: str, dest_dir: str):
                 time.sleep(1)
     return total, converted, copied, errors
 
-
-# ---------------------- ส่วนเมนู / UI ----------------------
 
 def show_summary(total: int, converted: int, copied: int, errors: int, dest_dir: str) -> None:
     clear_screen()
