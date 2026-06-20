@@ -52,7 +52,7 @@
 # 🛠️ HIGH-LEVEL SKIN MODEL DECORATIONS
 
 <div align="center">
-    <img src="https://cdn.phototourl.com/free/2026-06-17-419f9e39-4ab2-4c70-8de2-f8c058171609.jpg" width="700" alt="ArenaOfValor WarningMessage" />
+    <img src="https://cdn.phototourl.com/free/2026-06-20-568bd9a9-2859-4503-bfff-8efc429f20a8.jpg" width="700" alt="ArenaOfValor WarningMessage" />
 </div>
 <h4>
 
