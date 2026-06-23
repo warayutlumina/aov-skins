@@ -1,1 +1,82 @@
+PROJECT USAGE LICENSE AGREEMENT
 
+This license agreement is created to define the terms, conditions, responsibilities, limitations, and permissions regarding the usage of this project. Any individual, team, organization, or third party who accesses, downloads, executes, studies, modifies, distributes, or interacts with this project shall be considered a user under this agreement and is expected to fully understand and comply with every section contained within this document.
+
+Users are granted limited rights to use the project only under the conditions described in this agreement. Access to the project does not transfer ownership, intellectual property rights, exclusive usage rights, trademarks, branding rights, or any unrestricted authority over the project and its contents.
+
+2 - Scope of Permitted Usage
+
+Users may access and use the project for personal learning, technical research, educational activities, software testing, experimentation, development practices, compatibility verification, and private implementation.
+
+Users may customize configuration files, extend functionality, modify source code, reorganize internal project structures, optimize implementation methods, and create supplementary components as long as such actions remain within legal boundaries and do not intentionally damage, exploit, abuse, or misrepresent the original work.
+
+Permission granted under this agreement does not automatically include unrestricted public distribution rights, resale rights, commercial packaging rights, or ownership transfer rights.
+
+3 - Attribution and Original Ownership
+
+The original creator of the project shall remain the lawful owner of all original materials, structures, concepts, source code, documentation, files, implementation patterns, and associated project resources unless explicitly transferred through written authorization.
+
+Users must preserve original credits, ownership declarations, acknowledgments, copyright statements, repository references, and documentation records.
+
+Users shall not remove, alter, replace, hide, or falsely recreate author information in a way that could lead others to believe that the original work was created by another person or entity.
+
+4 - Modification and Derivative Works
+
+Users may modify the project to suit their operational requirements, technical environments, deployment targets, compatibility goals, or development objectives.
+
+Any modified version created from this project shall clearly indicate that changes were made after obtaining the original source.
+
+Derivative works must not intentionally create confusion regarding authorship, ownership, official release status, maintenance authority, or original project identity.
+
+Modified versions remain the responsibility of the modifying party and shall not impose obligations on the original creator.
+
+5 - Distribution and Publication Conditions
+
+Redistribution of this project in source form, compiled form, packaged form, archived form, or integrated form shall preserve acknowledgement of the original source.
+
+Public uploads, mirrors, repositories, archives, downloadable packages, and deployment instances shall include visible references indicating that the work originates from the original project.
+
+Distribution methods that intentionally conceal project origins, manipulate licensing information, remove project history, or falsely claim exclusivity are prohibited under this agreement.
+
+6 - Commercial Restrictions
+
+Commercial usage includes but is not limited to selling access, subscription models, monetized deployment, software bundling, paid customization services, commercial licensing, enterprise integration, advertising-supported packaging, or revenue-generating distribution.
+
+Users intending to perform commercial activities using this project should obtain authorization from the original owner before proceeding.
+
+Failure to obtain authorization may result in termination of granted usage permissions under this agreement.
+
+7 - User Responsibilities
+
+Users are fully responsible for evaluating security, legality, compatibility, reliability, deployment safety, and operational consequences before using the project.
+
+Users shall ensure that implementation does not violate platform rules, service agreements, application policies, organizational regulations, regional laws, intellectual property requirements, or contractual obligations.
+
+Users accept all risks associated with usage decisions made independently.
+
+8 - Limitation of Liability
+
+The project is provided without guarantees regarding stability, performance, availability, maintainability, operational continuity, security level, update frequency, compatibility expectations, or outcome predictability.
+
+The original creator, maintainers, contributors, collaborators, and associated parties shall not be liable for financial loss, operational interruption, software failure, service downtime, security incidents, data corruption, business impact, legal disputes, indirect damages, or consequential losses resulting from project usage.
+
+Users acknowledge that all implementation decisions are performed at their own discretion and responsibility.
+
+9 - Updates and Future Changes
+
+The project may receive updates, revisions, redesigns, restructures, maintenance adjustments, feature removals, architectural changes, policy modifications, or complete discontinuation at any time.
+
+The original creator is not obligated to maintain compatibility with previous versions or provide migration assistance.
+
+Users are responsible for maintaining their own deployment stability and adaptation process.
+
+10 - Acceptance of Terms
+
+By downloading, accessing, viewing, compiling, executing, modifying, copying, deploying, distributing, integrating, or otherwise interacting with this project, the user automatically confirms acceptance of all terms stated in this agreement.
+
+If a user disagrees with any section of this license, usage must immediately stop and all obtained copies should no longer be used.
+
+This agreement becomes effective immediately upon project access and remains applicable throughout the duration of project usage.
+
+Version 1.0
+All Rights Reserved.
